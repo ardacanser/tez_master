@@ -12,7 +12,7 @@ import os
 SAVE_LOC = f"8-CRITERIA_SELECTION/user_intent/"
 VERSION = "D"
 C_NAME = "testing_gemini"
-GEMINI_API_KEY = 'AIzaSyAZ9lPCH5JL5x_yVWYXD4YtIndpNkdBUoI' # YENI535
+GEMINI_API_KEY = '' # YENI535
 
 
 save_nums = list(range(20, 0, -1))

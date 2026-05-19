@@ -100,7 +100,7 @@ class QualityFeaturesExtractor:
 
 
 if __name__ == "__main__":
-    GEMINI_API_KEY = "AIzaSyAZ9lPCH5JL5x_yVWYXD4YtIndpNkdBUoI"
+    GEMINI_API_KEY = ""
     llm_client = LLMClient(
         api_key=GEMINI_API_KEY,
         model_name="gemini-2.5-flash",
